@@ -5,7 +5,7 @@
 
 ###
 
-<p align="left">Hello World, my name is Wildan Apendi curious person about technology as well as being an avid railfans.</p>
+<p align="left">Hello World, As a backend fresher, I am passionate about website development and AI/ML technologies. I enjoy exploring new frameworks, building innovative web applications, and experimenting with machine learning algorithms to develop meaningful solutions..</p>
 
 ###
 
