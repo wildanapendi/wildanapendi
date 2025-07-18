@@ -1,4 +1,4 @@
-<h1 align="center">Wildan Apendi(Lambadda12)</h1>
+<h1 align="center">Wildan Apendi</h1>
 
 ###
 
