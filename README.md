@@ -1,6 +1,6 @@
 <h1 align="center">Wildan Apendi</h1>
 
-![Lambadda12]()
+![wildanapendi]()
 <h3 align="left">💫 About Me:</h3>
 
 ###
