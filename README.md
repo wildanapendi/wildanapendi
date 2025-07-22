@@ -1,6 +1,7 @@
 <h1 align="center">Wildan Apendi</h1>
 
 ![wildanapendi](github-image.png)
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=wildanapendi&label=Profile%20views&color=0e75b6&style=flat" alt="wildanapendi" /> </p>
 <h3 align="left">💫 About Me:</h3>
 
 ###
