@@ -45,6 +45,10 @@
 
 ###
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+
+###
+
 <h3 align="center">📊 GitHub Stats:</h3>
 
 ###
