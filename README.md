@@ -16,7 +16,7 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,gitlab,figma,docker,kubernetes,jenkins,npm,notion,vscode" />
+    <img src="https://skillicons.dev/icons?i=git,github,gitlab,figma,docker,kubernetes,jenkins,npm,notion,vscode,firebase,vercel" />
   </a>
 </p>
 
@@ -39,19 +39,7 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,js,golang,python,flask,laravel,react,nodejs,nextjs" />
-  </a>
-</p>
-
-###
-
-<h4 align="left"> 🚀 Deploy:</h4>
-
-###
-
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=firebase,vercel" />
+    <img src="https://skillicons.dev/icons?i=php,js,golang,python,flask,laravel,react,nodejs,nextjs,tailwindcss" />
   </a>
 </p>
 
