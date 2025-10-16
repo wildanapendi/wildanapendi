@@ -39,9 +39,23 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,js,golang,python,laravel,react,nodejs,nextjs" />
+    <img src="https://skillicons.dev/icons?i=php,js,golang,python,flask,laravel,react,nodejs,nextjs" />
   </a>
 </p>
+
+###
+
+<h4 align="left"> 🚀 Deploy:</h4>
+
+###
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=firebase,vercel" />
+  </a>
+</p>
+
+###
 
 ###
 
