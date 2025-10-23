@@ -39,7 +39,7 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,js,golang,python,flask,laravel,react,nodejs,nextjs,tailwindcss" />
+    <img src="https://skillicons.dev/icons?i=php,js,python,flask,laravel,react,nodejs,nextjs,tailwindcss" />
   </a>
 </p>
 
