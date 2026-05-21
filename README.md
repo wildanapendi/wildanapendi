@@ -12,13 +12,7 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=wildanapendi.wildanapendi&left_color=darkslategrey&left_text=Lihat%20Terus"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://count.getloli.com/@:wildanapendi?theme=3d-num&padding=5&scale=1.4&align=top&pixelated=1&darkmode=auto"  />
+  <img src="https://count.getloli.com/@:wildanapendi?theme=3d-num&padding=5&scale=1.5&align=top&pixelated=1&darkmode=auto"  />
 </div>
 
 ###
