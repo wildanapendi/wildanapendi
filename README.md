@@ -7,7 +7,7 @@
 
 ###
 
-<p align="left">Hello World, As a backend fresher, I am passionate about website development and AI/ML technologies. I enjoy exploring new frameworks, building innovative web applications, and experimenting with machine learning algorithms to develop meaningful solutions..</p>
+<p align="left">Hello World! As a backend developer, I am deeply passionate about architecting robust web applications and uncovering insights through data. I thrive at the intersection of development and operations—streamlining deployment pipelines, analyzing statistical trends, and experimenting with machine learning algorithms to build resilient, data-driven solutions....</p>
 
 ###
 
@@ -28,9 +28,9 @@
 ###
 
 <div align="center">
+  <img src="https://raw.githubusercontent.com/wildanapendi/wildanapendi/languages-output/languages.svg" height="300" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=wildanapendi&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="200" alt="streak graph"  />
   <img src="https://raw.githubusercontent.com/wildanapendi/wildanapendi/stats-output/stats.svg" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=wildanapendi&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://raw.githubusercontent.com/wildanapendi/wildanapendi/languages-output/languages.svg" height="200" alt="languages graph"  />
   <img src="https://raw.githubusercontent.com/wildanapendi/wildanapendi/activity-graph-output/activity-graph.svg" height="300" alt="activity-graph graph"  />
 </div>
 
