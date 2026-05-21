@@ -17,6 +17,12 @@
 
 ###
 
+<div align="center">
+  <img src="https://count.getloli.com/@:wildanapendi?theme=3d-num&padding=5&scale=1.4&align=top&pixelated=1&darkmode=auto"  />
+</div>
+
+###
+
 <h3 align="left">📊 GitHub Stats:</h3>
 
 ###
