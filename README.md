@@ -11,10 +11,10 @@
       <h3 align="left">💫 About Me</h3>
       <p>Hello World! As a <b>Backend Developer</b>, I am deeply passionate about architecting robust web applications and uncovering insights through data. I thrive at the intersection of development and operations—streamlining deployment pipelines, analyzing statistical trends, and experimenting with machine learning algorithms to build resilient, data-driven solutions.</p>
       <ul>
-        <li>🚀 <b>Core Focus:</b> Backend Architecture, DevOps Pipelines, & Scalable Systems.</li>
-        <li>💡 <b>Interests:</b> Machine Learning, Statistical Analysis, & Deployment Optimization.</li>
-        <li>💬 <b>Ask me about:</b> Server management, database design, and API integrations.</li>
-        <li>📫 <b>How to reach me:</b> <a href="LINK_LINKEDIN_ANDA">LinkedIn</a> | <a href="mailto:EMAIL_ANDA">Email</a></li>
+        <li> <b>Core Focus:</b> Backend Architecture, DevOps Pipelines, & Scalable Systems.</li>
+        <li> <b>Interests:</b> Machine Learning, Statistical Analysis, & Deployment Optimization.</li>
+        <li> <b>Ask me about:</b> Server management, database design, and API integrations.</li>
+        <li> <b>How to reach me:</b> <a href="https://www.linkedin.com/in/wildan-apendi">LinkedIn</a> | <a href="gmail:wildanapend@gmail.com">Email</a></li>
       </ul>
     </td>
     <td width="35%" valign="top" align="center">
