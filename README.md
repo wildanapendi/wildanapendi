@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Wildan Apendi 👋</h1>
+<h1 align="center">Hi there, I'm Wildan Apendi</h1>
 
 <div align="center">
   <img src="github-image.png" alt="Wildan Apendi Banner" width="100%" />
