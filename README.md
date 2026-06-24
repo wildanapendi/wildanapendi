@@ -38,9 +38,9 @@
     <td width="45%" valign="top">
       <h3 align="left">🔭 Featured Projects</h3>
       <ul>
-        <li><b>[Nama Proyek CMS/Web]</b><br>Sistem manajemen konten yang dioptimalkan untuk performa tinggi.</li>
-        <li><br><b>[Nama Proyek Infrastruktur]</b><br>Konfigurasi <i>deployment</i> otomatis menggunakan Docker dan GitHub Actions.</li>
-        <li><br><b>[Eksperimen Data]</b><br>Analisis statistik atau implementasi logika <i>backend</i> kompleks.</li>
+        <li> <b>Company Profile</b>, Sistem manajemen konten yang dioptimalkan untuk performa tinggi.</li>
+        <li> <b>Automate Deployment</b>, Konfigurasi <i>deployment</i> otomatis menggunakan Docker dan GitHub Actions.</li>
+        <li> <b>Analytcal Progres</b>, Analisis statistik atau implementasi logika <i>backend</i> kompleks.</li>
       </ul>
     </td>
     <td width="55%" valign="top" align="center">
