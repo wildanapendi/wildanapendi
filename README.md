@@ -14,7 +14,7 @@
         <li> <b>Core Focus:</b> Backend Architecture, DevOps Pipelines, & Scalable Systems.</li>
         <li> <b>Interests:</b> Machine Learning, Statistical Analysis, & Deployment Optimization.</li>
         <li> <b>Ask me about:</b> Server management, database design, and API integrations.</li>
-        <li> <b>How to reach me:</b> <a href="https://www.linkedin.com/in/wildan-apendi">LinkedIn</a> | <a href="gmail:wildanapend@gmail.com">Email</a></li>
+        <li> <b>How to reach me:</b> <a href="https://www.linkedin.com/in/wildan-apendi">LinkedIn</a></li>
       </ul>
     </td>
     <td width="35%" valign="top" align="center">
