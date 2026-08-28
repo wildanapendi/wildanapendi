@@ -2,7 +2,7 @@ name: Generate stats card
 
 on:
   schedule: # execute every 12 hours
-    - cron: "* */12 * * *"
+    - cron: "0 */12 * * *"
 
   workflow_dispatch:
 
@@ -25,6 +25,8 @@ jobs:
           options: username=${{ github.repository_owner }}&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false
           path: dist/stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
+          core_version: 2.1.4
+          fail_on_error: true
 
 
       - name: push stats.svg to the output branch
