@@ -30,7 +30,7 @@
       </ul>
     </td>
     <td width="35%" valign="top" align="center">
-      <h3 align="center">🛠️ Languange Stack</h3>
+      <h3 align="center">🛠️ Tool Stack</h3>
       <br>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java" /> &nbsp;
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript" /> &nbsp;
