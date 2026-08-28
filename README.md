@@ -1,10 +1,20 @@
 <h1 align="center">Hi there, I'm Wildan Apendi</h1>
 
-<div align="center">
-  <img src="github-image.png" alt="Wildan Apendi Banner" width="100%" />
-  
-  <img src="wildanapendi-wildanapendi.svg" alt="Card system" width="100%" />
-</div>
+<table width="100%">
+  <tr>
+    <td align="center">
+      <img src="github-image.png" alt="Wildan Apendi Banner" width="100%" />
+    </td>
+  </tr>
+</table>
+
+<table width="100%">
+  <tr>
+    <td align="center">
+      <img src="wildanapendi-wildanapendi.svg" alt="Card system" width="100%" />
+    </td>
+  </tr>
+</table>
 <br>
 
 <table width="100%">
