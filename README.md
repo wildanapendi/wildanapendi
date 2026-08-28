@@ -49,7 +49,7 @@
       <h3 align="center">📊 Quick Stats</h3>
       <br>
         <img src="https://raw.githubusercontent.com/wildanapendi/wildanapendi/stats-output/stats.svg" height="150" alt="stats graph"  />
-        <img src="https://streak-stats.demolab.com?user=masimphnen&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+        <img src="https://streak-stats.demolab.com?user=wildanapendi&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
     </td>
   </tr>
 </table>
