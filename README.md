@@ -30,15 +30,17 @@
       </ul>
     </td>
     <td width="35%" valign="top" align="center">
-      <h3 align="center">🛠️ Tech Stack</h3>
+      <h3 align="center">🛠️ Tool Stack</h3>
       <br>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java" /> &nbsp;
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript" /> &nbsp;
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="go" />
+      <img src="https://devicon-website.vercel.app/api/nodejs/original.svg" height="40" alt="nodejs">
       <br><br>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php" /> &nbsp;
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript" /> &nbsp;
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bun/bun-original.svg" height="40" alt="bun" />
       <br><br><br>
       <img src="https://count.getloli.com/@:wildanapendi?theme=3d-num&padding=5&scale=1.5&align=top&pixelated=1&darkmode=auto" alt="Profile views" />
     </td>
@@ -59,7 +61,7 @@
       <h3 align="center">📊 Quick Stats</h3>
       <br>
         <img src="https://raw.githubusercontent.com/wildanapendi/wildanapendi/stats-output/stats.svg" height="150" alt="stats graph" />
-        <img src="https://streak-stats.demolab.com?user=wildanapendi&locale=en&mode=weekly&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" />
+        <img src="https://streak-stats.demolab.com?user=wildanapendi&theme=dracula&hide_border=false&border_radius=5&mode=daily&cache_bust=1" height="150" alt="streak graph" />
     </td>
   </tr>
 </table>
