@@ -43,7 +43,7 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bun/bun-original.svg" height="40" alt="bun" />
       <br><br><br>
-      <img src="https://count.getloli.com/@:wildanapendi?theme=3d-num&padding=5&scale=1.5&align=top&pixelated=1&darkmode=auto" alt="Profile views" />
+      <img src="https://count.getloli.com/@wildanapendi?theme=3d-num&padding=7&offset=0&align=center&scale=1&pixelated=1&darkmode=auto" alt="Profile views" />
     </td>
   </tr>
 </table>
