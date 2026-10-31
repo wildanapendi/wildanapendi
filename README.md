@@ -12,6 +12,7 @@
   <tr>
     <td align="center">
       <img src="wildanapendi-wildanapendi.svg" alt="Card system" width="100%" />
+      <img src="https://githubcard.com/wildanapendi.svg" alt="GitHubCard" width="100%" />
     </td>
   </tr>
 </table>
