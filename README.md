@@ -63,6 +63,7 @@
       <br>
         <img src="https://streak-stats.demolab.com?user=wildanapendi&theme=dracula&hide_border=false&border_radius=5&mode=daily&cache_bust=1" height="150" alt="streak graph" />
     </td>
+    <img src="https://ghstats.dev/api/card?username=wildanapendi&theme=nord&border_radius=7&custom_title=Masimphnen" alt="GitHub Stats Card" />
   </tr>
 </table>
 
@@ -81,11 +82,13 @@
 
 <table width="100%">
   <tr>
-    <td width="50%" valign="top" align="center">
+    <td valign="top" align="center">
       <h3 align="center">🎮 Snake Commit</h3>
       <img src="https://raw.githubusercontent.com/wildanapendi/wildanapendi/snake-output/snake.svg" width="100%" alt="Snake animation" />
     </td>
-    <td width="50%" valign="top" align="center">
+  </tr>
+  <tr>
+    <td valign="top" align="center">
       <h3 align="center">👾 Pacman Graph</h3>
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wildanapendi/wildanapendi/pacman-output/breakout-contribution-graph-dark.svg">
